@@ -3,6 +3,8 @@ Individual Unit Root Tests without multiple testing control Use boot_ur (bootUR)
 
 MBB bootstrap ADF test (with intercept and trend) on each individual series (no multiple testing correction) Use boot_ur (bootUR) With (In) R Software
 
+https://www.youtube.com/watch?v=xzFI6pMOsc8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
